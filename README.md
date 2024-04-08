@@ -1,4 +1,6 @@
-### Hi there 👋
+### I'm currently in my 2.Year at a university, where I study Computer Science in German
+### Programming languages: Python, C++, Java, SQL
+### Interests: Technology, Fitness, Cars, Music
 
 <!--
 **aron396/aron396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
